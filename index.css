@@ -183,3 +183,16 @@ a sup{
 .foot1{
     width: 100%;
 }
+.h3{
+    height: 5px;
+    margin-top: 10px;
+}
+.icons{
+    display: flex;
+    width: 130px;
+}
+.icon1{
+    width: 50%;
+    opacity: 0.5;
+    
+}

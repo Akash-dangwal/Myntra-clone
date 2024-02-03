@@ -38,8 +38,23 @@
     border-bottom: 5px solid #ffffff;
 
 }
-.nav a:hover{
+.nav1:hover{
     border-bottom: 4px solid rgb(249, 42, 42);
+}
+.nav2:hover{
+    border-bottom: 4px solid rgb(249, 54, 152);
+}
+.nav3:hover{
+    border-bottom: 4px solid rgb(255, 74, 8);
+}
+.nav4:hover{
+    border-bottom: 4px solid rgb(255, 218, 8);
+}
+.nav5:hover{
+    border-bottom: 4px solid rgb(21, 248, 252);
+}
+.nav6:hover{
+    border-bottom: 4px solid rgb(253, 32, 190);
 }
 a sup{
     color: #ff3f3c;

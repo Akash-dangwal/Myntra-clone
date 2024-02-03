@@ -196,3 +196,8 @@ a sup{
     opacity: 0.5;
     
 }
+.copyright {
+    color: #94969f;
+    text-align: end;
+    padding: 15px;
+}
